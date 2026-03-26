@@ -37,4 +37,4 @@ MediConnect is a modern, fast, and secure telemedicine platform designed to conn
      - Backend Node.js/Express server with PostgreSQL for persistent medical records.
      - AI-based symptom checker chatbot.
 
-Built with Sristhi Rai❤️ for solving real-world healthcare accessibility.
+Built with Anup Kumar❤️ for solving real-world healthcare accessibility.
